@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     "myauth.apps.MyauthConfig",
 
     "rest_framework",
+    "rest_framework_simplejwt",
 ]
 
 MIDDLEWARE = [
